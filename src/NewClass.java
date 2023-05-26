@@ -7,4 +7,8 @@ public class NewClass {
     public void test2() {
         System.out.println("Test 2");
     }
+
+    public void test3() {
+        System.out.println("TEST3");
+    }
 }
