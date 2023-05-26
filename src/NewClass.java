@@ -8,8 +8,11 @@ public class NewClass {
         System.out.println("Test 2");
     }
 
-
     public void test3(String surname) {
         System.out.println("TEST3");
+    }
+
+    public void test4() {
+        System.out.println("TEST4");
     }
 }
