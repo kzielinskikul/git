@@ -11,4 +11,8 @@ public class NewClass {
     public void test3(String name) {
         System.out.println("TEST3");
     }
+
+    public void test4() {
+        System.out.println("TEST4");
+    }
 }
