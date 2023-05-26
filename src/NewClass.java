@@ -8,7 +8,7 @@ public class NewClass {
         System.out.println("Test 2");
     }
 
-    public void test3() {
+    public void test3(String name) {
         System.out.println("TEST3");
     }
 }
